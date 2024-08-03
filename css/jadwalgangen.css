@@ -1,0 +1,9 @@
+.pht {
+  margin: 27px;
+  width: 46rem;
+  border-radius: 20px;
+}
+
+.row {
+    justify-content: center;
+}

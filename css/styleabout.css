@@ -1,0 +1,21 @@
+.photo {
+    margin: 15px;
+}
+
+.pht {
+  margin: 10px;
+  width: 23rem;
+}
+
+.row {
+    justify-content: space-around;
+  }
+
+.photo img {
+    transition: transform 0.3s ease-in-out;
+    border-radius: 20px;
+}
+
+.photo img:hover{
+    transform: scale(1.2);
+}
